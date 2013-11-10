@@ -1,0 +1,6 @@
+[submodule "blog_api"]
+	path = blog_api
+	url = git@github.com:rorlab/blog_api.git
+[submodule "blog_ng"]
+	path = blog_ng
+	url = git@github.com:rorlab/blog_ng.git
